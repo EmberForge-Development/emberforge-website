@@ -16,7 +16,7 @@ const team_members: member[] = [
 	{
 		name: "SkyKing_PX",
 		role: "Team Lead",
-		image: "/team/profiles/john_doe.jpg",
+		image: "/team/profiles/skyking_px.jpg",
 		bio: "John is the founder of EmberForge and has over 10 years of experience in the tech industry.",
 	},
 	{
